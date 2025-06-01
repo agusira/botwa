@@ -1,0 +1,21 @@
+{
+  "name": "botwa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base",
+    "botwa"
+  ],
+  "author": "Agus Irawan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fizzxydev/baileys-pro": "^8.7.2",
+    "node-cache": "^5.1.2",
+    "uglify-js": "^3.19.3"
+  }
+}
